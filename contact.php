@@ -110,22 +110,22 @@ if(isset($_POST['send']))
                                 <li class="d-flex mb-4"> <i class="fas fa-map-marker-alt text-white mr-2 font-13 mt-1"></i>
                                     <div class="contact-address">
                                         <h5 class="text-white">Address</h5>
-                                        <span class="text-white">27 Ingram Street, Dayton</span> <br>
-										<span class="text-white">27 Ingram Street, Dayton</span>
+                                        <span class="text-white">Center ville, Tangier</span> <br>
+										
 										</div>
                                 </li>
                                 <li class="d-flex mb-4"> <i class="fas fa-phone-alt text-white mr-2 font-13 mt-1"></i>
                                     <div class="contact-address">
                                         <h5 class="text-white">Call Us</h5>
-                                        <span class="d-table text-white">+1 234-567-8910</span>
-										<span class="text-white">+1 243-765-4321 </span>
+                                        <span class="d-table text-white">+212 6 75 65 82 87</span>
+										
 									</div>
                                 </li>
                                 <li class="d-flex mb-4"> <i class="fas fa-envelope text-white mr-2 font-13 mt-1"></i>
                                     <div class="contact-address">
                                         <h5 class="text-white">Email Adderss</h5>
-										<span class="d-table text-white">helpline@realestatest.com</span>
-										<span class="text-white">helpline@realestatest.com</span>
+										<span class="d-table text-white">saloua.kasmibakkali@gmail.com</span>
+										
 										</div>
                                 </li>
                             </ul>
@@ -176,7 +176,8 @@ if(isset($_POST['send']))
         <!--	Contact Inforamtion -->
         
         <!--	Map -->
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5644.408542716626!2d-117.1523848363907!3d32.73426737275872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d95495497f80c9%3A0x5df0f4372635e247!2sSan%20Diego%20Zoo!5e0!3m2!1sen!2snp!4v1658568764228!5m2!1sen!2snp" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d208502.5270767792!2d-5.897437736538271!3d35.76762386699468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd9e61970d36bba3%3A0x1c77308a3d7959a1!2sTangier%2C%20Morocco!5e0!3m2!1sen!2snp!4v1658575811712!5m2!1sen!2snp" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 		<!--	Map -->
         
         <!--	Footer   start-->
