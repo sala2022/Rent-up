@@ -1,0 +1,12 @@
+**Contact me in saloua.kasmibakkali@gmail.com***
+
+**Database Name: realestatephp**
+
+**Developed by saloua Kasmi Bakkali**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+
+
+
